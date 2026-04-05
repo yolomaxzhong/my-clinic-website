@@ -1,4 +1,4 @@
-# Max Zhong Clinic Website
+# Max Holistic Clinic Website
 
 Minimal, elegant single-page website for:
 - Chinese Medicine
